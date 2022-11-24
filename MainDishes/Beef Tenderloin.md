@@ -24,3 +24,8 @@ https://downshiftology.com/recipes/beef-tenderloin-roast/
   6. Slather the butter herb mixture over the top side of the beef tenderloin, then transfer the entire pan to the oven. If using a probe thermometer, insert the probe before placing the tenderloin in the oven. Roast the beef tenderloin for 15-20 minutes, depending on how you like your meat cooked (see temperature tips above).
   7. Remove the beef tenderloin from the oven and transfer to a cutting board. Let it rest for 10 to 15 minutes, to allow the juices to redistribute. Then remove the twine and slice into 1-inch thick pieces. If you'd like, serve with horseradish sauce.
 
+## IDEAL BEEF TENDERLOIN TEMPERATURES
+  - Rare – remove at 110°F. Rested temp will be 115-118°F. Majority of the center is bright red with a very thin layer of pink on the outer edge.
+  - Medium Rare – remove at 120°F. Rested temp will be 125-128°F. Center is red and becomes pinkish towards the outer edges.
+  - Medium – remove at 130°F. Rested temp will be 135-138°F. Center is a warm pink and the outer portion is brown.
+
