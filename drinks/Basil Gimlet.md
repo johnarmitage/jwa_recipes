@@ -4,7 +4,7 @@ source: https://punchdrink.com/recipes/basil-gimlet/
 
 ## Ingredients:
 
-  - 2 ounces gin, preferably Junipero
+  - 2 ounces gin, preferably Junipero (sub. Vodka)
   - 1 ounce lime juice
   - 1/2 ounce simple syrup
   - 5 basil leaves 
